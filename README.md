@@ -150,7 +150,7 @@ Anonymous social platform built around handwritten letters instead of timelines.
 - ⚡ Express + MongoDB
 - 📱 Responsive UI
 
-<a href="https://github.com/ritvikmudgal">
+<a href="https://vent-it-out-ten.vercel.app">
 <img src="https://img.shields.io/badge/Open_Project-238636?style=for-the-badge">
 </a>
 
@@ -171,7 +171,7 @@ Python productivity tool that analyzes how developers actually type.
 - Session analytics
 - 697+ downloads
 
-<a href="https://github.com/ritvikmudgal">
+<a href="https://pepy.tech/projects/aitypingstats?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=line&versions=1.0.0">
 <img src="https://img.shields.io/badge/Open_Project-238636?style=for-the-badge">
 </a>
 
@@ -195,7 +195,7 @@ AI-powered resume evaluator with ATS scoring and detailed improvement suggestion
 - Better Suggestions
 - LLM Powered
 
-<a href="https://github.com/ritvikmudgal">
+<a href="https://reume-judger.vercel.app">
 <img src="https://img.shields.io/badge/Open_Project-238636?style=for-the-badge">
 </a>
 
@@ -215,7 +215,7 @@ Building premium websites and AI experiences for businesses.
 - Business Automation
 - Product-first Design
 
-<a href="https://github.com/ritvikmudgal">
+<a href="https://github.com/ritvikmudgal/wemake">
 <img src="https://img.shields.io/badge/Coming_Soon-blue?style=for-the-badge">
 </a>
 
