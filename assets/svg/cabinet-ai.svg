@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="90">
+
+<rect x="2" y="2" width="496" height="86" rx="12"
+fill="#0d1117"
+stroke="#58A6FF"/>
+
+<text x="24" y="38"
+fill="#58A6FF"
+font-size="18"
+font-family="JetBrains Mono">
+
+AI LAB
+
+</text>
+
+<text x="24" y="64"
+fill="#8B949E"
+font-size="14"
+font-family="JetBrains Mono">
+
+Status : ACTIVE
+
+</text>
+
+<circle cx="455" cy="45" r="6" fill="#3FB950">
+
+<animate
+attributeName="opacity"
+values="1;.2;1"
+dur="1.6s"
+repeatCount="indefinite"/>
+
+</circle>
+
+</svg>
