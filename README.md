@@ -169,7 +169,7 @@ Python productivity tool that analyzes how developers actually type.
 - Focus score
 - Paste detection
 - Session analytics
-- 697+ downloads
+- 1300+ downloads
 
 <a href="https://pepy.tech/projects/aitypingstats?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=line&versions=1.0.0">
 <img src="https://img.shields.io/badge/Open_Project-238636?style=for-the-badge">
