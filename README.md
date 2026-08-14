@@ -24,7 +24,7 @@ I'm a first-year CS student who'd rather learn by breaking things than reading d
 - 🛠️ Currently deep in **full-stack + AI-assisted apps** — real users, real edge cases, no toy projects
 - 🚨 Last big build: **Tether**, a personal-safety PWA — went from idea to a production-ready package solo
 - 🏆 Competed in a Microsoft-affiliated hackathon with **GuardianX**, a proactive safety app with offline SMS fallback
-- 📦 Published **AI Typing Stats** on PyPI — a CLI tool that's crossed 1,300+ downloads
+- 📦 Published **AI Typing Stats** on PyPI — a CLI tool that's crossed 1,400+ downloads
 - 📈 Chasing consistency over intensity — small daily commits > sporadic bursts
 
 <br/>
@@ -43,15 +43,14 @@ I'm a first-year CS student who'd rather learn by breaking things than reading d
 
 <br/>
 
-## 🚀 the one I'm proudest of — Tether
+## 🚀 the one I'm proudest of — Kairo
 
-> A personal-safety PWA built to work when it matters most — even offline.
+> A personal Desktop Companion that does small tasks on voice command.
 
 | | |
 |---|---|
-| **Stack** | React 19 · TypeScript · Vite · Tailwind CSS v4 · Leaflet |
-| **What it does** | Real-time location sharing, geofenced alerts, and an SMS fallback for zero-signal zones |
-| **Why it's different** | Shipped as a full production build — installable PWA, not a demo |
+| **Stack** | Python
+| **What it does** | A glowing orb appears and when wake word detected starts listeneing for commands|
 
 <div align="center">
 
@@ -61,12 +60,6 @@ I'm a first-year CS student who'd rather learn by breaking things than reading d
 
 <br/>
 
-## 📊 the numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ritvikmudgal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2FD5C8&icon_color=00C9A7&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritvikmudgal&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=2FD5C8&fire=00C9A7&currStreakLabel=2FD5C8" height="165"/>
 
 </div>
 
