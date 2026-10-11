@@ -28,6 +28,11 @@ I'm a first-year CS student who'd rather learn by breaking things than reading d
 - 📈 Chasing consistency over intensity — small daily commits > sporadic bursts
 
 <br/>
+### 🔥 My Coding Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ritvikmudgal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ## 🧰 tech stack
 
