@@ -27,9 +27,13 @@ I'm a first-year CS student who'd rather learn by breaking things than reading d
 - 📦 Published **AI Typing Stats** on PyPI — a CLI tool that's crossed 1,400+ downloads
 - 📈 Chasing consistency over intensity — small daily commits > sporadic bursts
 
-<br/>
+##  My Coding Streak
 
-## 🧰 tech stack
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ritvikmudgal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+##  tech stack
 
 <div align="center">
 
@@ -43,7 +47,7 @@ I'm a first-year CS student who'd rather learn by breaking things than reading d
 
 <br/>
 
-## 🚀 the one I'm proudest of — Kairo
+##  the one I'm proudest of — Kairo
 
 > A personal Desktop Companion that does small tasks on voice command.
 
