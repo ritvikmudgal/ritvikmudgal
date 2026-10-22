@@ -33,7 +33,7 @@ I'm a first-year CS student who'd rather learn by breaking things than reading d
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,tailwind,vite,nodejs,mysql,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,tailwind,flask,vite,mongodb,nodejs,nextjs,mysql,git,github,typescript&theme=dark" />
 
 </div>
 
